@@ -17,5 +17,5 @@ Asegúrate de tener instalados los siguientes requisitos:
 No se recomienda actualizar la versión de Gradle a 8.0 debido a problemas desconocidos. Mantén la versión especificada en el archivo build.gradle.
 
 ## **Contacto**
-Sebastian Marcelo Bustios
-Rony Rodrigo Sicos Barrera
+- Sebastian Marcelo Bustios
+- Rony Rodrigo Sicos Barrera
